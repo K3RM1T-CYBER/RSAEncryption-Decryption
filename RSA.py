@@ -36,3 +36,5 @@ if resultChoice == 1:
 if resultChoice == 2:
     dataDecrypted = decryptdata(input("Entrez le message à déchiffrer : "))
     print(dataDecrypted.decode())
+if resultChoice == 3:
+    print("En construction...")
