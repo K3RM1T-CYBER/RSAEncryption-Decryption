@@ -1,1 +1,1 @@
-This program enables message encryption with the AES encryption method.
+This program enables message encryption with the RSA encryption method.
